@@ -1,0 +1,1 @@
+# karma-mahjong-privacy-policy
